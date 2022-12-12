@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pvz图片/start.png</file>
+        <file>pvz图片/Button.png</file>
+        <file>pvz图片/basicmap.png</file>
+        <file>pvz图片/Background.jpg</file>
+        <file>pvz图片/LawnMower.png</file>
+        <file>pvz图片/ZombieDie.gif</file>
+        <file>pvz图片/ZombieHead.gif</file>
+        <file>pvz图片/ZombieWalk1.gif</file>
+        <file>pvz图片/ZombieWalk2.gif</file>
+        <file>pvz图片/ZombiesWon.png</file>
+        <file>pvz图片/nutwall1.gif</file>
+        <file>pvz图片/WallNut.png</file>
+        <file>pvz图片/Card.png</file>
+        <file>pvz图片/FootballZombieWalk.gif</file>
+        <file>pvz图片/FootballZombieDie.gif</file>
+        <file>pvz图片/ConeZombieWalk.gif</file>
+        <file>pvz图片/BucketZombieWalk.gif</file>
+        <file>pvz图片/rednutwall.gif</file>
+        <file>pvz图片/Burn.gif</file>
+        <file>pvz图片/rednutwall.png</file>
+        <file>pvz图片/Boom.gif</file>
+        <file>pvz图片/bigWallNut.png</file>
+        <file>pvz图片/bignutwall1.gif</file>
+        <file>pvz图片/Shop.png</file>
+        <file>pvz图片/ScreenZombieWalk.gif</file>
+        <file>pvz图片/startButton.png</file>
+        <file>pvz图片/startBackgound.png</file>
+    </qresource>
+</RCC>
